@@ -17,7 +17,7 @@
   ],
   "author": "D2L",
   "license": "Apache-2.0",
-  "peerDependencies": {
+  "dependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "react-dom": "^0.14.0 || ^15.0.0",
     "lit-element": "^2.0.0"
